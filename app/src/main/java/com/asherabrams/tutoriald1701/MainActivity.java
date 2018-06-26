@@ -1,5 +1,6 @@
 // Sends a string of text to a new activity.  This version works.  Date code is April 17.
 // 2018F26 12:20 edit:  Added this line of text to comments.
+// 2018F26 16:54 edit:  Added this new line of text to comments.
 
 package com.asherabrams.tutoriald1701;
 
